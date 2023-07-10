@@ -21,3 +21,7 @@ inseridos. Você deve encontrar e corrigir pelo menos 3 deles. Registre através
 comentário no método da classe o bug identificado e a correção.
 * Use técnicas de refatoração para melhorar pelo menos 4 pontos do código. Registre
 através de comentário a refatoração realizada.
+
+## Cobertura de Testes
+
+![Cobertura](/doc/images/coverage.PNG)
